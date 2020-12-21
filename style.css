@@ -23,7 +23,7 @@ ul {
 
 }
 
-.item {
+.btn {
   width: 200px;
   text-align: center;
   list-style: none;
@@ -31,7 +31,15 @@ ul {
   font-size: 30px;
   padding: 20px 20px;
   border-radius: 7px;
-  background-color: #ffffff;
+}
+
+.btn2 {
+  width: 200px;
+  height: 60px;
+  color: #ffffff;
+  border-radius: 5px;
+  margin-left: 20px;
+
 }
 
 
@@ -76,14 +84,4 @@ form p {
   background-color: #ffffff;
   border-radius: 5px;
   padding-left: 30%;
-}
-
-.search {
-  width: 200px;
-  height: 60px;
-  background-color: #ffffff;
-  border-radius: 5px;
-  margin-left: 20px;
-  background-color: blanchedalmond;
-
 }
